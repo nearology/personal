@@ -1,9 +1,9 @@
 # Site settings
-title: Jonathon Belotti [thundergolfer]
-author: Jonathon Belotti
-description: "No hugs, some learning"
+title: Mohammad Amin Khazaei
+author: Mohammad Amin Khazaei
+description: "Software engineer focused on embedded systems"
 baseurl: ""
-url: "https://thundergolfer.com"
+url: "https://aminx.me"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -19,17 +19,16 @@ bing_verification:
 show_related_posts: True
 show_post_footers: True
 show_subscribe_cta: True
-show_social_icons: false
+show_social_icons: true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
 enable_anchorjs: true
 
 # Social icons
-github_username: thundergolfer
+github_username: nearology
 stackoverflow_id:
-twitter_username: jonobelotti_io
-linkedin_username: jonathonbelotti
+linkedin_username: mohamamda315
 
 text:
   pagination:
