@@ -18,6 +18,7 @@ I'm passionate about, and focused on:
 - Linux kernel development and device drivers
 - Hardware-software integration and optimization
 - Building reliable and efficient embedded solutions
+- Reverse engineering devices
 
 <br>
 
