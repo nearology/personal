@@ -3,20 +3,21 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi there, <br/> I'm Jonathon Belotti.
+# 👋 Hi there, <br/> I'm Mohammad Amin Khazaei.
 
-### I'm a software engineer with a focus on data & platform engineering.
+### I'm a software engineer with a focus on embedded systems.
 
-### Currently, I help build [Modal](https://modal.com/), a dream cloud platform for data & ML engineers.
+### Currently, I work on developing embedded Linux devices.
 
 <br>
 
-I can usually be found in a programming IDE or reading.
-I'm bullish on, and a big booster of:
+I can usually be found in a programming IDE or working on embedded projects.
+I'm passionate about, and focused on:
 
-- 🌿💚 [@bazelbuild](https://github.com/bazelbuild/) and generally using functional principles to keep things sane. (I've open-sourced a few tools for the Bazel ecosystem, see [/projects]({{ site.baseurl }}/projects))
-- Good old-fashioned books 📖. Two recent favourites are [_The Dispossessed_](https://www.goodreads.com/book/show/13651.The_Dispossessed) and [_Shakespearean Tragedy_](https://www.goodreads.com/book/show/437318.Shakespearean_Tragedy)
-- [Effective Altruism](https://www.vox.com/future-perfect/2019/12/6/20992100/peter-singer-effective-altruism-lives-you-can-save-animal-liberation). Helping, not harming. Doing, not having. Building, not consuming.
+- 🔧 Embedded systems development and low-level programming
+- Linux kernel development and device drivers
+- Hardware-software integration and optimization
+- Building reliable and efficient embedded solutions
 
 <br>
 
